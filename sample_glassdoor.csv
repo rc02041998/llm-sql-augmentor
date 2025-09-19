@@ -1,0 +1,8 @@
+review_id,designation,rating,pros,cons,date
+1,Software Engineer,5,"Good work culture","Long working hours","2018-08-15"
+2,Data Scientist,4,"Great learning","Slow promotions","2018-08-20"
+3,Software Engineer,2,"Flexible timings","Toxic work culture","2018-08-25"
+4,Product Manager,1,"Decent pay","Poor company culture","2018-08-30"
+5,Intern,3,"Helpful team","Low stipend","2018-09-02"
+6,Software Engineer,1,"Good colleagues","Bad management, toxic culture","2018-09-05"
+7,Data Analyst,2,"Exposure to tools","Culture not supportive","2018-09-08"
